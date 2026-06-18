@@ -1,16 +1,10 @@
 <div align="center">
+<h1>Pankti Patel</h1>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:2952c4,100:0d0d0d&height=2&width=400" />
+<br><br>
+<p>Bioinformatics Analyst &nbsp;|&nbsp; RNA-seq &nbsp;·&nbsp; Single-Cell &nbsp;·&nbsp; Genomics</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:0a1628,60:112244,100:1a3a6e&height=160&section=header&text=Pankti%20Patel&fontSize=48&fontColor=e8edf5&fontAlignY=40&fontStyle=bold&desc=Bioinformatics%20Analyst%20%7C%20RNA-seq%20%C2%B7%20Single-Cell%20%C2%B7%20Genomics&descAlignY=65&descSize=15&descColor=6b8cba" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a3a6e,50:2952c4,100:1a3a6e&height=3&section=header" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=1000&color=6b8cba&center=true&vCenter=true&width=580&lines=MS+Bioinformatics+%E2%80%94+Northeastern+University;Building+pipelines+that+answer+biological+questions.;Boston%2C+MA+%E2%80%94+open+to+roles+across+the+US.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=1000&color=6b8cba&center=true&vCenter=true&width=580&lines=MS+Bioinformatics+%E2%80%94+Northeastern+University;Building+pipelines+that+answer+biological+questions.;Boston%2C+MA+%E2%80%94+open+to+roles+across+the+US.)
 
 </div>
 
@@ -26,15 +20,16 @@
 
 ### About
 
-Biological data is complex, noisy, and full of signal waiting to be found — that's exactly what draws me to bioinformatics.
+Bioinformatics chose me the moment I realized biology's biggest questions live inside data too complex to read by hand.
 
-I work on the problems where the data is massive, the biology is messy, and the stakes are real. Taking a raw count matrix and tracing it all the way to a biological conclusion — identifying which cell types are present, which genes are driving disease, which variants matter — that process of discovery is what I'm here for.
+I genuinely love what I do. There is something deeply satisfying about starting with a raw count matrix and working through the noise until something real emerges — a cell population, a survival biomarker, a variant that matters. That moment of biological clarity from computational work is what keeps me going.
 
-My work spans **scRNA-seq, bulk RNA-seq, somatic variant analysis, and survival biomarker discovery**, built as reproducible end-to-end pipelines on real public datasets. Every project starts with a biological question and ends with an answer that can be trusted, reproduced, and built on.
+My focus is on building pipelines that are reproducible, interpretable, and actually answer the question they were built to answer. I work across scRNA-seq, bulk RNA-seq, somatic variant analysis, and survival biomarker discovery, always on real datasets, always with the biological question front and center.
+
+Right now I am extending that into multi-omics deep learning for AMR prediction, bringing in SHAP explainability so the model output means something beyond an accuracy score.
 
 - 🎓 MS Bioinformatics — Northeastern University (Dec 2025)
 - 🔬 scRNA-seq · Bulk RNA-seq · Variant Annotation · Survival Analysis
-- 🤖 In progress: AMR prediction via multi-omics deep learning + SHAP explainability
 - 📍 Boston, MA — open to roles across the US
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pankti-p-9841b523b)
 
@@ -75,7 +70,8 @@ My work spans **scRNA-seq, bulk RNA-seq, somatic variant analysis, and survival 
 </div>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a6e,50:0a1628,100:0d0d0d&height=100&section=footer" />
-
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:2952c4,100:0d0d0d&height=2&width=400" />
+<br><br>
+<p style="color:#6b8cba;font-size:12px;">open to work · Boston, MA · patel.panktijr@gmail.com</p>
 </div>
