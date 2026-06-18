@@ -1,87 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:2ea8e0&height=200&section=header&text=Pankti%20Patel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Bioinformatics%20%7C%20Computational%20Genomics%20%7C%20ML%20for%20Biology&descAlignY=60&descSize=18&descColor=a0d4f5" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a1628,100:0f2044&height=180&section=header&text=Pankti%20Patel&fontSize=52&fontColor=e8edf5&fontAlignY=38&fontStyle=bold&desc=Bioinformatics%20Analyst%20%7C%20RNA-seq%20%C2%B7%20Single-Cell%20%C2%B7%20Genomics%20%C2%B7%20ML%20for%20Biology&descAlignY=62&descSize=15&descColor=6b8cba" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=1000&color=6b8cba&center=true&vCenter=true&width=580&lines=MS+Bioinformatics+%E2%80%94+Northeastern+University;Building+pipelines+that+answer+biological+questions.;Boston%2C+MA+%E2%80%94+open+to+roles+across+the+US.)
 
 </div>
 
 ---
 
-### 🧬 About Me
+<div align="center">
 
-MS Bioinformatics from Northeastern University, focused on turning complex multi-omics data into biological insight that moves research forward.
+`Python` &nbsp;·&nbsp; `R` &nbsp;·&nbsp; `Scanpy` &nbsp;·&nbsp; `Seurat` &nbsp;·&nbsp; `DESeq2` &nbsp;·&nbsp; `PyTorch` &nbsp;·&nbsp; `SHAP` &nbsp;·&nbsp; `Docker` &nbsp;·&nbsp; `HPC/SLURM`
 
-My work spans **single-cell RNA-seq, bulk RNA-seq, survival analysis, and variant annotation**, with a strong emphasis on reproducible, end-to-end pipelines built for real datasets.
-
-- 🎓 **MS Bioinformatics — Northeastern University** (Dec 2025)
-- 🔬 Pipelines in **scRNA-seq · Bulk RNA-seq · Variant Annotation · Survival Analysis**
-- 🤖 Currently building: **AMR prediction with multi-omics deep learning + SHAP explainability**
-- 🏙️ Based in **Boston, MA** — open to roles across the US
-- 📫 **[linkedin.com/in/pankti-p-9841b523b](https://www.linkedin.com/in/pankti-p-9841b523b)**
+</div>
 
 ---
 
-### ⚙️ Tech Stack
+### About
 
-**Single-Cell & Transcriptomics**
+I build reproducible, end-to-end pipelines that extract signal from high-dimensional biological data — the kind that actually informs decisions in drug discovery and translational research.
 
-![Scanpy](https://img.shields.io/badge/Scanpy-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Seurat](https://img.shields.io/badge/Seurat-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Monocle3](https://img.shields.io/badge/Monocle3-4B0082?style=for-the-badge&logo=r&logoColor=white)
-![CellChat](https://img.shields.io/badge/CellChat-8B0000?style=for-the-badge&logo=r&logoColor=white)
-![DESeq2](https://img.shields.io/badge/DESeq2-2C3E50?style=for-the-badge&logo=r&logoColor=white)
-![clusterProfiler](https://img.shields.io/badge/clusterProfiler-1ABC9C?style=for-the-badge&logo=r&logoColor=white)
+Not just code that runs. Code that answers the question on the plate.
 
-**Machine Learning & Explainability**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-
-**Languages & Core Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Infrastructure & Reproducibility**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HPC/SLURM](https://img.shields.io/badge/HPC%2FSLURM-003366?style=for-the-badge&logo=linux&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+- 🎓 MS Bioinformatics — Northeastern University (Dec 2025)
+- 🔬 scRNA-seq · Bulk RNA-seq · Somatic Variant Analysis · Survival Biomarker Discovery
+- 🤖 In progress: AMR prediction via multi-omics deep learning + SHAP explainability
+- 📍 Boston, MA — open to roles across the US
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pankti-p-9841b523b)
 
 ---
 
-### 📌 Featured Projects
+### Projects
 
-| Project | What It Does | Stack |
-|---|---|---|
-| 🦠 [Single-Cell RNA-seq Pipeline](https://github.com/Pankti-patel15/single-cell-rnaseq-analysis-pipeline) | End-to-end scRNA-seq: QC → clustering → cell-type annotation on 10x PBMC data | Scanpy · Python · UMAP · Leiden |
-| 🧬 [CPTAC Breast Cancer RNA-seq](https://github.com/Pankti-patel15/cptac-breast-cancer-rnaseq-de-pipeline-) | Bulk RNA-seq DE pipeline on real CPTAC transcriptomics data with automated GDC download | Python · DESeq2 · GDC API |
-| 🫁 [LUAD Survival Biomarker Discovery](https://github.com/Pankti-patel15/luad-survival-biomarker-discovery-pipeline) | Cox regression + ML biomarker discovery in lung adenocarcinoma using TCGA data | Python · survival · cBioPortal |
-| 🔬 [Cancer Variant Annotation Pipeline](https://github.com/Pankti-patel15/cancer-variant-annotation-prioritization-pipeline) | Somatic variant annotation, prioritization, burden analysis + oncoprint on breast cancer | Python · cBioPortal · oncoprint |
+| Project | Stack |
+|---|---|
+| [Single-Cell RNA-seq Pipeline](https://github.com/Pankti-patel15/single-cell-rnaseq-analysis-pipeline) — QC → clustering → cell-type annotation on 10x PBMC | Scanpy · UMAP · Leiden |
+| [CPTAC Breast Cancer RNA-seq](https://github.com/Pankti-patel15/cptac-breast-cancer-rnaseq-de-pipeline-) — Bulk DE pipeline on real CPTAC transcriptomics data | Python · DESeq2 · GDC API |
+| [LUAD Survival Biomarker Discovery](https://github.com/Pankti-patel15/luad-survival-biomarker-discovery-pipeline) — Cox regression + ML biomarkers in lung adenocarcinoma | Python · survival · TCGA |
+| [Cancer Variant Annotation Pipeline](https://github.com/Pankti-patel15/cancer-variant-annotation-prioritization-pipeline) — Somatic variant annotation + burden analysis | Python · cBioPortal |
 
 ---
 
-### 📊 GitHub Stats
+### Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pankti-patel15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankti-patel15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=Pankti-patel15&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=6b8cba&icon_color=6b8cba" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankti-patel15&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=6b8cba" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pankti-patel15&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pankti-patel15&theme=github-dark&hide_border=true&ring=6b8cba&fire=4a6fa5&currStreakLabel=6b8cba)
 
 </div>
 
 ---
-
-### 🐍 Contribution Snake
 
 <div align="center">
 
@@ -89,10 +70,8 @@ My work spans **single-cell RNA-seq, bulk RNA-seq, survival analysis, and varian
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea8e0,50:1a3a5c,100:0d1117&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2044,50:0a1628,100:0d0d0d&height=100&section=footer" />
 
-</div> 
+</div>
